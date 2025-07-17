@@ -45,4 +45,9 @@ Here are some ideas to get you started:
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 <br/>
 
+## 📊 Hackatime Stats
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=14304&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_blue)
+
+
 ---
