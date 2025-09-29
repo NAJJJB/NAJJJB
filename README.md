@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 <!-- 🔭 My skillset mainly consists of web development with HTML, CSS and (some) Javascript. Although I also do C# stuff sometimes.
 - 🌱 I’m currently learning React.js & ASP.NET Core (and a little Blazor).
-- 📫 How to reach me: Discord: neomrd
+- 📫 How to reach me: Discord:
 -->
 
 ## Hi there, I'm NAJJJB, aka Neo!
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Currently studying IT in Sweden
 
-- 👨‍💻 Mostly working on [SubscriptionTracker](https://github.com/NAJJJB/subscription-tracker)
+- 👨‍💻 Working on nothing special at the moment, just some small side projects at home and school.
 
 
 ## 📊 Hackatime Stats
